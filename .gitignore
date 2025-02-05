@@ -21,5 +21,6 @@ numpy
 *.zip
 .bash_history
 /venv
+echo myenv/ >> .gitignore
 
 
